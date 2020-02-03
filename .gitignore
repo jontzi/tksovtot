@@ -348,3 +348,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/WebAppTest11/WebAppTest11/Web.config
+/WebAppTest11/WebAppTest11/Views/Web.config
